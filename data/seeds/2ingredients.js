@@ -93,7 +93,6 @@ exports.seed = function(knex) {
           "id": 22,
           "name": "Beef broth",
           "brand_name": null
-          }
         }
       ]);
     });
